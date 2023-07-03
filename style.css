@@ -1,0 +1,20 @@
+body{
+        
+        position: absolute;
+        top: 0;
+        width: 100%;
+        display: flex;
+        justify-content:center;
+        margin-right: 40px;
+       
+
+}
+
+form{
+
+        font: size 18px;
+        font-style: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;  
+        forced-color-adjust:#0216f8 ;
+     
+}
